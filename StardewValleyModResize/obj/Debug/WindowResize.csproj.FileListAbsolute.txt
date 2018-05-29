@@ -1,0 +1,10 @@
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\bin\Debug\0Harmony.dll
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\WindowResize.csprojResolveAssemblyReference.cache
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\WindowResize.csproj.GenerateResource.cache
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\WindowResize.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\WindowResize.csproj.CopyComplete
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\bin\Debug\WindowResize.dll
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\bin\Debug\WindowResize.pdb
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\WindowResize.Properties.Resources.resources
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\WindowResize.dll
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\WindowResize.pdb

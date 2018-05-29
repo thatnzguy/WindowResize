@@ -1,0 +1,10 @@
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\bin\Debug\StardewValleyModResize.dll
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\bin\Debug\StardewValleyModResize.pdb
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\StardewValleyModResize.csprojResolveAssemblyReference.cache
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\StardewValleyModResize.Properties.Resources.resources
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\StardewValleyModResize.csproj.GenerateResource.cache
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\StardewValleyModResize.csproj.CoreCompileInputs.cache
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\StardewValleyModResize.dll
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\StardewValleyModResize.pdb
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\bin\Debug\0Harmony.dll
+C:\Users\Joel\source\repos\StardewValleyModResize\StardewValleyModResize\obj\Debug\StardewValleyModResize.csproj.CopyComplete
